@@ -1,6 +1,6 @@
 # 💫 About Me:
-Welcome to my GitHub profile! I'm a passionate MERN stack developer who loves coding and problem solving. I believe in the power of technology to create meaningful and impactful solutions.<br><br><br>🌱 I’m currently learning Back-End Development<br>💬 Ask me about React JS<br>📫 How to reach me anshikamittal34@gmail.com<br>📄 Know about my experiences : http://bitly.ws/RSt9
-
+Welcome to my GitHub profile! I'm a passionate MERN stack developer who loves coding and problem solving. I believe in the power of technology to create meaningful and impactful solutions.<br><br><br>🌱 I’m currently learning Back-End Development<br>💬 Ask me about React JS<br>📫 How to reach me anshikamittal34@gmail.com<br>📄 Know about my experiences : bit.ly/44zQvMb
+](https://bit.ly/44zQvMb)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_anshikamittal/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anshikamittal7/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/_anshikamittal) 
